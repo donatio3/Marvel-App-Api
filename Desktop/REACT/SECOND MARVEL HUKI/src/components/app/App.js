@@ -14,14 +14,14 @@ const SingleComicPage = lazy(() => import('../pages/SingleComicsPage'))
 
 const App = () => {
         return (
-            <Router>
+            <Router basename="Marvel-App-Api">
                 <div className="app">
                     <AppHeader/>
                     <main>
                      
                     <Suspense fallback={<Spinner/>}>  
                         <Routes>
-                            <Route element={<MainPage/>} path="/Marvel-App-Api"/>
+                            <Route element={<MainPage/>} path="/"/>
                             <Route element={<ComicsPage/>} path="/comics"/>
                             <Route element={<SingleComicPage/>} path="/comics/:comicId"/>
 
