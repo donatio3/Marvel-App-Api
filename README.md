@@ -1,3 +1,36 @@
+- Description:
+This web application allows users to browse heroes and comics from the Marvel universe, using the Marvel API to get up-to-date data.
+
+- Technologies:
+
+Frontend: React, React Router
+Backend: Using the Marvel API
+Create React App
+Lazy/Suspense for dynamic loading of components
+
+- Peculiarities:
+
+Lazy loading: Components are loaded as needed, which improves application performance.
+Routing: Implemented convenient routing using React Router, allowing users to easily navigate between pages.
+
+
+LINK: https://donatio3.github.io/Marvel-App-Api
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
