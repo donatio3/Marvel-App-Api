@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/donatio3/Marvel-App-Api/static/css/main.ad4d209d.css",
+    "main.js": "/donatio3/Marvel-App-Api/static/js/main.cb7f687f.js",
+    "static/js/485.294f0d15.chunk.js": "/donatio3/Marvel-App-Api/static/js/485.294f0d15.chunk.js",
+    "static/css/411.e521a2cb.chunk.css": "/donatio3/Marvel-App-Api/static/css/411.e521a2cb.chunk.css",
+    "static/js/411.e263a964.chunk.js": "/donatio3/Marvel-App-Api/static/js/411.e263a964.chunk.js",
+    "static/css/526.edd0bee1.chunk.css": "/donatio3/Marvel-App-Api/static/css/526.edd0bee1.chunk.css",
+    "static/js/526.45853d00.chunk.js": "/donatio3/Marvel-App-Api/static/js/526.45853d00.chunk.js",
+    "static/css/488.32397a8b.chunk.css": "/donatio3/Marvel-App-Api/static/css/488.32397a8b.chunk.css",
+    "static/js/488.e977b8a2.chunk.js": "/donatio3/Marvel-App-Api/static/js/488.e977b8a2.chunk.js",
+    "static/media/x-men.png": "/donatio3/Marvel-App-Api/static/media/x-men.41b39e1944f148b7a123.png",
+    "static/media/vision.png": "/donatio3/Marvel-App-Api/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/abyss.jpg": "/donatio3/Marvel-App-Api/static/media/abyss.93d211d37b67a60bace9.jpg",
+    "static/media/mjolnir.png": "/donatio3/Marvel-App-Api/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/donatio3/Marvel-App-Api/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/donatio3/Marvel-App-Api/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers logo.png": "/donatio3/Marvel-App-Api/static/media/Avengers logo.a0e4cca1091366da37c4.png",
+    "index.html": "/donatio3/Marvel-App-Api/index.html",
+    "main.ad4d209d.css.map": "/donatio3/Marvel-App-Api/static/css/main.ad4d209d.css.map",
+    "main.cb7f687f.js.map": "/donatio3/Marvel-App-Api/static/js/main.cb7f687f.js.map",
+    "485.294f0d15.chunk.js.map": "/donatio3/Marvel-App-Api/static/js/485.294f0d15.chunk.js.map",
+    "411.e521a2cb.chunk.css.map": "/donatio3/Marvel-App-Api/static/css/411.e521a2cb.chunk.css.map",
+    "411.e263a964.chunk.js.map": "/donatio3/Marvel-App-Api/static/js/411.e263a964.chunk.js.map",
+    "526.edd0bee1.chunk.css.map": "/donatio3/Marvel-App-Api/static/css/526.edd0bee1.chunk.css.map",
+    "526.45853d00.chunk.js.map": "/donatio3/Marvel-App-Api/static/js/526.45853d00.chunk.js.map",
+    "488.32397a8b.chunk.css.map": "/donatio3/Marvel-App-Api/static/css/488.32397a8b.chunk.css.map",
+    "488.e977b8a2.chunk.js.map": "/donatio3/Marvel-App-Api/static/js/488.e977b8a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4d209d.css",
+    "static/js/main.cb7f687f.js"
+  ]
+}
